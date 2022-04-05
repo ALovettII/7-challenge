@@ -34,6 +34,12 @@ voila etf_analyzer.ipynb
 ``` 
 
 # Example of using Voila
+![Screen Shot 2022-04-04 at 6 18 30 PM](https://user-images.githubusercontent.com/97809855/161659326-db3a518f-bb61-4004-855b-7bbaf9dadfbe.png)
+![Screen Shot 2022-04-04 at 6 18 49 PM](https://user-images.githubusercontent.com/97809855/161659345-bf6a2c52-ea4e-49a2-b3bb-1e755a661884.png)
+![Screen Shot 2022-04-04 at 6 19 15 PM](https://user-images.githubusercontent.com/97809855/161659350-05ea01ae-f8b0-43ae-b7eb-46388001c4ac.png)
+![Screen Shot 2022-04-04 at 6 19 28 PM](https://user-images.githubusercontent.com/97809855/161659364-ffe2c074-c1ea-4ca3-baf6-2c62ce87c499.png)
+
+
 
 ## Contributors
 Created by Arthur Lovett
